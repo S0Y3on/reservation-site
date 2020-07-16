@@ -2,7 +2,7 @@
 	pageEncoding="EUC-KR"%>
 <!DOCTYPE html>
 <html>
-<head>
+<head> 
 <style>
 #wrap {
 	margin-left: auto;
